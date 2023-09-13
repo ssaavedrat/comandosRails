@@ -6,6 +6,20 @@ Nombre autoexplicativo del proyecto, con una breve descripción.
 
 Una descripción más detallada y técnica del proyecto, incluyendo sus principales características, su propósito y cómo funciona.
 
+## Comandos
+
+Crear un proyecto en Ruby on Rails
+
+```bash
+rails new nombre_proyecto
+```
+
+Crear un controlador en Ruby on Rails con sus respectivas vistas
+
+```bash
+rails generate controller nombre_controlador nombre_vista1 nombre_vista2
+```
+
 ## Insignias
 
 Insignias que muestran metadatos como el estado de la compilación, la cobertura de las pruebas, el estado de las dependencias, etc.
